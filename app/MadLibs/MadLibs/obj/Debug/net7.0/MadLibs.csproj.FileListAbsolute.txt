@@ -1,0 +1,14 @@
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/bin/Debug/net7.0/MadLibs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/bin/Debug/net7.0/MadLibs.deps.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/bin/Debug/net7.0/MadLibs.runtimeconfig.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/bin/Debug/net7.0/MadLibs.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/bin/Debug/net7.0/MadLibs.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/obj/Debug/net7.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/obj/Debug/net7.0/MadLibs.AssemblyInfoInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/obj/Debug/net7.0/MadLibs.AssemblyInfo.cs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/obj/Debug/net7.0/MadLibs.csproj.CoreCompileInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/obj/Debug/net7.0/MadLibs.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/obj/Debug/net7.0/refint/MadLibs.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/obj/Debug/net7.0/MadLibs.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/obj/Debug/net7.0/MadLibs.genruntimeconfig.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MadLibs/MadLibs/obj/Debug/net7.0/ref/MadLibs.dll
