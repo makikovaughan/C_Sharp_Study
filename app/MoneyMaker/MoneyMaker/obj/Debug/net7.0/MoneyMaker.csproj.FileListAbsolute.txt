@@ -1,0 +1,14 @@
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/bin/Debug/net7.0/MoneyMaker
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/bin/Debug/net7.0/MoneyMaker.deps.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/bin/Debug/net7.0/MoneyMaker.runtimeconfig.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/bin/Debug/net7.0/MoneyMaker.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/bin/Debug/net7.0/MoneyMaker.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/obj/Debug/net7.0/MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/obj/Debug/net7.0/MoneyMaker.AssemblyInfoInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/obj/Debug/net7.0/MoneyMaker.AssemblyInfo.cs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/obj/Debug/net7.0/MoneyMaker.csproj.CoreCompileInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/obj/Debug/net7.0/MoneyMaker.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/obj/Debug/net7.0/refint/MoneyMaker.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/obj/Debug/net7.0/MoneyMaker.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/obj/Debug/net7.0/MoneyMaker.genruntimeconfig.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/MoneyMaker/MoneyMaker/obj/Debug/net7.0/ref/MoneyMaker.dll
