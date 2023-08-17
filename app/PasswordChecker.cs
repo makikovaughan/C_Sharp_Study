@@ -104,7 +104,6 @@ is weak");
 doesn't meet any of the standards");
           break;
       }
-      Console.WriteLine(score);
 
     }
   }
