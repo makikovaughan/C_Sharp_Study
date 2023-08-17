@@ -6,3 +6,5 @@
 2. Mad Libs(/app/MadLibs/MadLibs/Program.cs): Receive input from the user to play Mad Libs game.
 3. Money Maker(/app/MoneyMaker/MoneyMaker/Program.cs): a program in which a user enters an amount and 
 gets the minimum number of coins that equal that value.
+4. Password Checker(app/PasswordChecker.cs): This program checks the 
+password strength
