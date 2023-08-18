@@ -1,0 +1,14 @@
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/net7.0/ChooseYourOwnAdventure
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/net7.0/ChooseYourOwnAdventure.deps.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/net7.0/ChooseYourOwnAdventure.runtimeconfig.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/net7.0/ChooseYourOwnAdventure.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/net7.0/ChooseYourOwnAdventure.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/net7.0/ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/net7.0/ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/net7.0/ChooseYourOwnAdventure.AssemblyInfo.cs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/net7.0/ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/net7.0/ChooseYourOwnAdventure.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/net7.0/refint/ChooseYourOwnAdventure.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/net7.0/ChooseYourOwnAdventure.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/net7.0/ChooseYourOwnAdventure.genruntimeconfig.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/net7.0/ref/ChooseYourOwnAdventure.dll

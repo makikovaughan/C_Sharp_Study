@@ -8,3 +8,5 @@
 gets the minimum number of coins that equal that value.
 4. Password Checker(app/PasswordChecker.cs): This program checks the 
 password strength
+5. Choose Your Own 
+Adventure(/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/Program.cs):
