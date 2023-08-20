@@ -28,7 +28,7 @@ namespace ArchitectArithmetic
                 case "theotihuacan":
                     Console.WriteLine(CalculateTotalCost());
                     break;
-                case "taj Mahal":
+                case "taj mahal":
                     Console.WriteLine(CalculateTotalCostTaj());
                     break;
                 case "mosque":
