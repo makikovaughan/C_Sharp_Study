@@ -10,3 +10,8 @@ gets the minimum number of coins that equal that value.
 password strength
 5. Choose Your Own 
 Adventure(/app/ChooseYourOwnAdventure/ChooseYourOwnAdventure/Program.cs):
+The user chooses the adventure.
+6. Architect 
+Arithmetic(/app/ArchitectArithmetic/ArchitectArithmetic/Program.cs): 
+Calculate the project cost of Teotihuacan, Taj Mahal, and The Great Mosque 
+of Mecca in Mexican pesos.

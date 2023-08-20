@@ -1,0 +1,14 @@
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/net7.0/ArchitectArithmetic
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/net7.0/ArchitectArithmetic.deps.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/net7.0/ArchitectArithmetic.runtimeconfig.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/net7.0/ArchitectArithmetic.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/bin/Debug/net7.0/ArchitectArithmetic.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/net7.0/ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/net7.0/ArchitectArithmetic.AssemblyInfoInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/net7.0/ArchitectArithmetic.AssemblyInfo.cs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/net7.0/ArchitectArithmetic.csproj.CoreCompileInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/net7.0/ArchitectArithmetic.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/net7.0/refint/ArchitectArithmetic.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/net7.0/ArchitectArithmetic.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/net7.0/ArchitectArithmetic.genruntimeconfig.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ArchitectArithmetic/ArchitectArithmetic/obj/Debug/net7.0/ref/ArchitectArithmetic.dll
