@@ -15,3 +15,8 @@ The user chooses the adventure.
 Arithmetic(/app/ArchitectArithmetic/ArchitectArithmetic/Program.cs): 
 Calculate the project cost of Teotihuacan, Taj Mahal, and The Great Mosque 
 of Mecca in Mexican pesos.
+7. Exquisite 
+Corpse(/app/ExquisiteCorpse/ExquisiteCorpse/Program.cs):In the game 
+Exquisite Corpse, participants draw either a head, body, or feet of a 
+creature. The players don’t know how their part of the body connects to 
+the other two, until the drawing is finished and revealed.

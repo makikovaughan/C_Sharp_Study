@@ -1,0 +1,14 @@
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/net7.0/ExquisiteCorpse
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/net7.0/ExquisiteCorpse.deps.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/net7.0/ExquisiteCorpse.runtimeconfig.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/net7.0/ExquisiteCorpse.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/net7.0/ExquisiteCorpse.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/net7.0/ExquisiteCorpse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/net7.0/ExquisiteCorpse.AssemblyInfoInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/net7.0/ExquisiteCorpse.AssemblyInfo.cs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/net7.0/ExquisiteCorpse.csproj.CoreCompileInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/net7.0/ExquisiteCorpse.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/net7.0/refint/ExquisiteCorpse.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/net7.0/ExquisiteCorpse.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/net7.0/ExquisiteCorpse.genruntimeconfig.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/net7.0/ref/ExquisiteCorpse.dll
