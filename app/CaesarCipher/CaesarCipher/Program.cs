@@ -1,10 +1,10 @@
-﻿using System;
-
-/*
+﻿/*
   Project: Caesar Cipher
   Programmer: Makiko Vaughan
   This project encrypt and decrypt messages using Caesar Cipher.
 */
+
+using System;
 
 namespace CaesarCipher
 {
