@@ -1,0 +1,4 @@
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TrueOrFalse/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TrueOrFalse/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.AssemblyInfoInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TrueOrFalse/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.AssemblyInfo.cs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TrueOrFalse/TrueOrFalse/obj/Debug/net7.0/TrueOrFalse.csproj.CoreCompileInputs.cache

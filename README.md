@@ -22,3 +22,9 @@ creature. The players don’t know how their part of the body connects to
 the other two, until the drawing is finished and revealed.
 8. Caesar Cipher(/app/CaesarCipher/CaesarCipher/Program.cs): This project 
 encrypt and decrypt messages using Caesar Cipher.
+9. True or False?(/app/TrueOrFalse/TrueOrFalse/Program.cs): In this 
+project, I am building a C# program that presents a quiz the right way: 
+using arrays and loops, it will check the format of user input and repeat 
+the question if the format is incorrect. After the quiz is complete, it 
+will check the user’s responses against the correct answers and present a 
+score.
