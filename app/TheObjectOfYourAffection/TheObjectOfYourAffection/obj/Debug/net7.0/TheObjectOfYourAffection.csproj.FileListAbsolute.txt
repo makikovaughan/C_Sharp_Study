@@ -1,0 +1,14 @@
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/bin/Debug/net7.0/TheObjectOfYourAffection
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/bin/Debug/net7.0/TheObjectOfYourAffection.deps.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/bin/Debug/net7.0/TheObjectOfYourAffection.runtimeconfig.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/bin/Debug/net7.0/TheObjectOfYourAffection.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/bin/Debug/net7.0/TheObjectOfYourAffection.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/obj/Debug/net7.0/TheObjectOfYourAffection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/obj/Debug/net7.0/TheObjectOfYourAffection.AssemblyInfoInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/obj/Debug/net7.0/TheObjectOfYourAffection.AssemblyInfo.cs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/obj/Debug/net7.0/TheObjectOfYourAffection.csproj.CoreCompileInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/obj/Debug/net7.0/TheObjectOfYourAffection.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/obj/Debug/net7.0/refint/TheObjectOfYourAffection.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/obj/Debug/net7.0/TheObjectOfYourAffection.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/obj/Debug/net7.0/TheObjectOfYourAffection.genruntimeconfig.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/TheObjectOfYourAffection/TheObjectOfYourAffection/obj/Debug/net7.0/ref/TheObjectOfYourAffection.dll

@@ -28,3 +28,7 @@ using arrays and loops, it will check the format of user input and repeat
 the question if the format is incorrect. After the quiz is complete, it 
 will check the user’s responses against the correct answers and present a 
 score.
+10. The Object of Your 
+Affection(/app/TheObjectOfYourAffection/TheObjectOfYourAffection/Program.cs 
+& Profile.cs): This program builds a pretty well-organized system of 
+dating profiles.
