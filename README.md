@@ -37,3 +37,9 @@ Interfaces(/app/AppInterface/AppInterface/Program.cs, PasswordManager.cs,
 TodoList.cs, IDisplayable.cs, & IResetable.cs): This program builds some 
 of the standard apps on this new machine, specifically the to-do list and 
 the password manager.
+12. Supernatural 
+Inheritance(/app/SupernaturalInheritance/SupernaturalInheritance/Program.cs, 
+Spell.cs, Storm.cs, Pupil.cs, Mage.cs, & Archmage.cs): This project 
+develops a system in C# to track the weather magicians in the guild and 
+their spells.
+

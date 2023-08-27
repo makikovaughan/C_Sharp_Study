@@ -18,8 +18,8 @@ namespace SavingInterface
             {
                 if (value.Length > 0 && value.Length < 8)
                 {
-                    password = value;
                     Console.WriteLine("The password length must be at least 8 characters long.");
+                    password = value;
                 }
                 else
                 {

@@ -1,0 +1,14 @@
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/bin/Debug/net7.0/SupernaturalInheritance
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/bin/Debug/net7.0/SupernaturalInheritance.deps.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/bin/Debug/net7.0/SupernaturalInheritance.runtimeconfig.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/bin/Debug/net7.0/SupernaturalInheritance.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/bin/Debug/net7.0/SupernaturalInheritance.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/obj/Debug/net7.0/SupernaturalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/obj/Debug/net7.0/SupernaturalInheritance.AssemblyInfoInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/obj/Debug/net7.0/SupernaturalInheritance.AssemblyInfo.cs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/obj/Debug/net7.0/SupernaturalInheritance.csproj.CoreCompileInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/obj/Debug/net7.0/SupernaturalInheritance.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/obj/Debug/net7.0/refint/SupernaturalInheritance.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/obj/Debug/net7.0/SupernaturalInheritance.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/obj/Debug/net7.0/SupernaturalInheritance.genruntimeconfig.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/SupernaturalInheritance/SupernaturalInheritance/obj/Debug/net7.0/ref/SupernaturalInheritance.dll

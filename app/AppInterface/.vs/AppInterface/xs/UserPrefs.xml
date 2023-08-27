@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{F0F8D1D9-CF20-4B28-B0A0-E847D418FFF0}|Default">
-  <MonoDevelop.Ide.ItemProperties.AppInterface FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AppInterface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppInterface/TodoList.cs">
+    <Files>
+      <File FileName="AppInterface/Program.cs" Line="4" Column="123" />
+      <File FileName="AppInterface/PasswordManager.cs" Line="25" Column="18" />
+      <File FileName="AppInterface/TodoList.cs" Line="1" Column="1" />
+      <File FileName="AppInterface/IDisplayable.cs" Line="16" Column="2" />
+      <File FileName="AppInterface/IResetable.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppInterface">
+            <Node name="AppInterface">
+              <Node name="TodoList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
