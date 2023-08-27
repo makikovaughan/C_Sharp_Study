@@ -32,3 +32,8 @@ score.
 Affection(/app/TheObjectOfYourAffection/TheObjectOfYourAffection/Program.cs 
 & Profile.cs): This program builds a pretty well-organized system of 
 dating profiles.
+11. App 
+Interfaces(/app/AppInterface/AppInterface/Program.cs, PasswordManager.cs, 
+TodoList.cs, IDisplayable.cs, & IResetable.cs): This program builds some 
+of the standard apps on this new machine, specifically the to-do list and 
+the password manager.

@@ -1,0 +1,14 @@
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/bin/Debug/net7.0/AppInterface
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/bin/Debug/net7.0/AppInterface.deps.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/bin/Debug/net7.0/AppInterface.runtimeconfig.json
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/bin/Debug/net7.0/AppInterface.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/bin/Debug/net7.0/AppInterface.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/obj/Debug/net7.0/AppInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/obj/Debug/net7.0/AppInterface.AssemblyInfoInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/obj/Debug/net7.0/AppInterface.AssemblyInfo.cs
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/obj/Debug/net7.0/AppInterface.csproj.CoreCompileInputs.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/obj/Debug/net7.0/AppInterface.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/obj/Debug/net7.0/refint/AppInterface.dll
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/obj/Debug/net7.0/AppInterface.pdb
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/obj/Debug/net7.0/AppInterface.genruntimeconfig.cache
+/Users/makikovaughan/Codecademy/C_Sharp_Study/app/AppInterface/AppInterface/obj/Debug/net7.0/ref/AppInterface.dll
