@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{BE84406E-2A54-487D-88AA-FE927F91E955}|Default">
-  <MonoDevelop.Ide.ItemProperties.SupernaturalInheritance FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SupernaturalInheritance/Program.cs">
+    <Files>
+      <File FileName="SupernaturalInheritance/Program.cs" Line="5" Column="1" />
+      <File FileName="SupernaturalInheritance/Storm.cs" Line="43" Column="1" />
+      <File FileName="SupernaturalInheritance/Pupil.cs" Line="40" Column="1" />
+      <File FileName="SupernaturalInheritance/Mage.cs" Line="23" Column="1" />
+      <File FileName="SupernaturalInheritance/Archmage.cs" Line="28" Column="1" />
+      <File FileName="SupernaturalInheritance/Spell.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SupernaturalInheritance">
+            <Node name="SupernaturalInheritance" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SupernaturalInheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

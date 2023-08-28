@@ -42,4 +42,8 @@ Inheritance(/app/SupernaturalInheritance/SupernaturalInheritance/Program.cs,
 Spell.cs, Storm.cs, Pupil.cs, Mage.cs, & Archmage.cs): This project 
 develops a system in C# to track the weather magicians in the guild and 
 their spells.
-
+13. Rover Control 
+Center(/app/RoverControlCenter/RoverControlCenter/Program.cs, 
+IDirectable.cs, Rover.cs, Satellite.cs, Probe.cs, MoonRover.cs, &
+MarsRover.cs): This program uses references, inheritance, interfaces, and 
+array to manage Rover Control Center.
